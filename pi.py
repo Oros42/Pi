@@ -1,4 +1,5 @@
 #!/bin/python
+# -*- coding: utf-8 -*-
 #
 # Petit calcul de PI
 # 	affiche
